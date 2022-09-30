@@ -10,8 +10,12 @@ const Waitforit = () => {
 
   return (
     <div>
-        <img src={Headie} alt="" className='headie'></img>
+        <img src={Pic1} alt="" className='pic1'></img>
+        <img src={Pic2} alt="" className='pic2'></img>
+        <img src={Pic3} alt="" className='pic3'></img>
+        <img src={Pic4} alt="" className='pic4'></img>
         <p className='comingsoon'>COMING SOON</p>
+        <img src={Headie} alt="" className='headie'></img>
     </div>
   )
 }
